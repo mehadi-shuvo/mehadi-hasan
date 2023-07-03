@@ -1,0 +1,39 @@
+.imgHover:hover {
+    transform: translateY(-550px);
+    transition: all linear 1s;
+}
+
+.glass-button {
+    display: inline-block;
+    padding: 12px 32px;
+    border: 0;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(30px);
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.glass-button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.triangleBg {
+    -webkit-clip-path: polygon(0 0, 45% 45%, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 45% 45%, 100% 100%, 0 100%);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.2px);
+    -webkit-backdrop-filter: blur(5.2px);
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    
+}
+
+.mainBg{
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}

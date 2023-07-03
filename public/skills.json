@@ -1,0 +1,37 @@
+[
+    {
+        "img": "https://i.postimg.cc/0j8gLDfp/html.png",
+        "name": "HTML",
+        "id": 1
+    },
+    {
+        "img": "https://i.postimg.cc/d1RPH48s/css.png",
+        "name": "CSS",
+        "id": 2
+    },
+    {
+        "img": "https://i.postimg.cc/m2px5cFH/js.png",
+        "name": "javascript",
+        "id": 3
+    },
+    {
+        "img": "https://i.postimg.cc/gJbbHfLt/react.png",
+        "name": "react js",
+        "id": 4
+    },
+    {
+        "img": "https://i.postimg.cc/hvpFgvyN/expressjs.png",
+        "name": "express js",
+        "id": 5
+    },
+    {
+        "img": "https://i.postimg.cc/T3y8MRrH/nodejs.png",
+        "name": "node js",
+        "id": 6
+    },
+    {
+        "img": "https://i.postimg.cc/445Rp2fw/mongodb.png",
+        "name": "MongoDB",
+        "id": 7
+    }
+]
